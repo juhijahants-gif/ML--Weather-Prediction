@@ -134,10 +134,7 @@ for target in targets:
 ## Output:
 <img width="1260" height="593" alt="WhatsApp Image 2026-05-12 at 7 19 29 PM" src="https://github.com/user-attachments/assets/df182d4b-a1d3-49d9-8464-7f314c8d1b78" />
 <img width="1247" height="473" alt="WhatsApp Image 2026-05-12 at 7 19 52 PM" src="https://github.com/user-attachments/assets/21bfce17-1f7d-4f45-bf29-996be46a7ead" />
-<img width="1247" height="473" alt="WhatsApp Image 2026-05-12 at 7 19 52 PM" src="https://github.com/user-attachments/assets/0a63a083-cefc-4594-92c2-2671a8d9099c" />
-
-
-
-
+<img width="1266" height="593" alt="WhatsApp Image 2026-05-12 at 7 20 13 PM" src="https://github.com/user-attachments/assets/1174ebad-d999-443a-9821-0e963d7b2007" />
 
 ## Result:
+The Random Forest regression model successfully predicts temperature, PM2.5 pollution level, and energy from environmental sensor data with good accuracy as evaluated using R² score, MAE, RMSE, and cross-validation.
